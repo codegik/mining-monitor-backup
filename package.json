@@ -1,0 +1,15 @@
+{
+  "name": "mining-monitor-backup",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": {
+    "name": "Inacio Klassmann",
+    "email": "inacio@versates.com"
+  },
+  "dependencies": {
+    "mongoose": "^4.11.12"
+  }
+}
